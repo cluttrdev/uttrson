@@ -1,16 +1,16 @@
-name = "Soho"
+name = "Uttrson"
 license = "MIT"
-licenselink = "https://github.com/alexandrevicenzi/soho/blob/master/LICENSE.md"
-description = "A minimalist and mobile first theme for Hugo"
+licenselink = "https://github.com/cluttrdev/uttrson/blob/master/LICENSE.md"
+description = "A simple and minimalist theme for Hugo"
 tags = ["blog", "responsive", "clean", "minimalist"]
-features = ["blog", "seo", "responsive", "mobile", "disqus", "analytics"]
+features = ["blog", "responsive"]
 min_version = "0.54.0"
 
 [author]
-    name = "alexandrevicenzi"
-    homepage = "http://alexandrevicenzi.com"
+    name = "cluttrdev"
+    homepage = "https://cluttr.tech"
 
 [original]
-    author = "spf13"
-    homepage = "http://spf13.com"
-    repo = "https://github.com/spf13/hyde"
+    name = "alexandrevicenzi"
+    homepage = "http://alexandrevicenzi.com"
+    repo = "https://github.com/alexandrevicenzi/soho"

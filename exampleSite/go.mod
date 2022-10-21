@@ -1,5 +1,5 @@
-module github.com/alexandrevicenzi/soho/exampleSite
+module github.com/cluttrdev/uttrson/exampleSite
 
 go 1.12
 
-require github.com/alexandrevicenzi/soho v1.1.0 // indirect
+require github.com/cluttrdev/uttrson v1.1.0 // indirect

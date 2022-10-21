@@ -1,13 +1,14 @@
 +++
-title = "Soho Theme"
-date = "2020-05-01"
-description = "About Soho Theme."
+title = "Uttrson Theme"
+date = "2022-10-18"
+description = "About Uttrson Theme."
 tags = [
     "theme",
 ]
 +++
 
-[Soho](https://github.com/alexandrevicenzi/soho) is a minimalist two-column [hugo](https://gohugo.io) theme based on [Hyde](https://github.com/spf13/hyde) and inspired by the success of [Flex](https://github.com/alexandrevicenzi/Flex).
+Uttrson is a minimalist two-column [hugo](https://gohugo.io) theme based on [Soho](https://github.com/alexandrevicenzi/soho)
+which in turn is based on [Hyde](https://github.com/spf13/hyde).
 
 ## Features
 

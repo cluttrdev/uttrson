@@ -1,3 +1,3 @@
-module github.com/alexandrevicenzi/soho
+module github.com/cluttrdev/uttrson
 
 go 1.12

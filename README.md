@@ -1,37 +1,20 @@
-# Soho
+# Uttrson
 
-Soho is a minimalist two-column [hugo](https://gohugo.io) theme based on [Hyde](https://github.com/spf13/hyde) inspired by the success of [Flex](https://github.com/alexandrevicenzi/Flex).
+Uttrson is a simple two-column [hugo](https://gohugo.io) theme based on [Soho](https://github.com/alexandrevicenzi/soho)
+which in turn is based on [Hyde](https://github.com/spf13/hyde).
 
 ![Screenshot](https://raw.githubusercontent.com/alexandrevicenzi/soho/master/images/tn.png)
 
-## Features
-
-- Mobile First
-- Responsive
-- Semantic
-- SEO best practices
-  - Open Graph
-  - Schema.org (Microdata and JSON-LD)
-  - Twitter Card
-- Pagination
-- Customizable
-- Support all [Hugo Internals](https://gohugo.io/templates/internal/)
-
-## Integrations
-
-- [Disqus](https://disqus.com/)
-- [Google Analytics](https://www.google.com/analytics/web/)
-
 ## Installation
 
-To install Soho as your default theme, first install this repository in the `themes/` directory:
+To install Uttrson as your default theme, first install this repository in the `themes/` directory:
 
     $ cd themes/
-    $ git submodule add https://github.com/alexandrevicenzi/soho.git
+    $ git submodule add https://github.com/cluttrdev/uttrson.git
 
-Second, specify `soho` as your default theme in the `config.toml` file. Just add the line
+Second, specify `uttrson` as your default theme in the `config.toml` file. Just add the line
 
-    theme = "soho"
+    theme = "uttrson"
 
 at the top of the file.
 
@@ -39,7 +22,7 @@ at the top of the file.
 
 ```toml
 baseURL = "https://example.com"
-title = "Soho"
+title = "Uttrson"
 languageCode = "en"
 enableInlineShortcodes = true
 
@@ -51,7 +34,7 @@ author = "Author Name"
 description = "My Blog"
 
 ## Set one of:
-# gravatar = "soho@example.com"
+# gravatar = "uttrson@example.com"
 profilePicture = "images/profile.png"
 
 copyright = "Author Name"
@@ -74,11 +57,6 @@ customJs = ["js/blog.js"]
   [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
-  url = "#"
-
-  [[params.socialIcons]]
-  icon = "fa-twitter"
-  title = "Twitter"
   url = "#"
 
 [menu]
