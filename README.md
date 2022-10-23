@@ -3,7 +3,7 @@
 Uttrson is a simple two-column [hugo](https://gohugo.io) theme based on [Soho](https://github.com/alexandrevicenzi/soho)
 which in turn is based on [Hyde](https://github.com/spf13/hyde).
 
-![Screenshot](https://raw.githubusercontent.com/alexandrevicenzi/soho/master/images/tn.png)
+![Screenshot](https://raw.githubusercontent.com/cluttrdev/uttrson/main/images/screenshot.png)
 
 ## Installation
 
